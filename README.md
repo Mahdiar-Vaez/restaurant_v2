@@ -17,5 +17,4 @@ To deploy this project run
 React , pure css no library
 
 ## لینک زنده پروژ
-[[https://shimmering-faun-7848d3.netlify.app/](https://shimmering-faun-7848d3.netlify.app/)
-](https://shimmering-faun-7848d3.netlify.app/)
+restaurant-v2-bjf941flx-mahdiar-vaezs-projects.vercel.app
