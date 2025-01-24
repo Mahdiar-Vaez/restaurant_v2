@@ -17,4 +17,4 @@ To deploy this project run
 React , pure css no library
 
 ## لینک زنده پروژ
-[restaurant-v2-bjf941flx-mahdiar-vaezs-projects.vercel.app](https://restaurant-v2-bjf941flx-mahdiar-vaezs-projects.vercel.app/)
+https://restaurant-v2-eta.vercel.app/
