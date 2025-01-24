@@ -1,0 +1,441 @@
+{
+  "Swiper": [
+    {
+      "imgUrl": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/slider1.png",
+      "name": "همبرگر رو بزن تو رگ"
+    },
+    {
+      "imgUrl": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/slider2.png",
+      "name": "همبرگر با سیب زمینی مخصوص بزن "
+    },
+    {
+      "imgUrl": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/slider3.png",
+      "name": "مرغ سوخاری رو بزن تو رگ "
+    }
+  ],
+  "hamburger": [
+    {
+      "id": 1,
+      "name": "همبرگر بزرگ درجه یک",
+      "des": "گوجه ، پیاز ، 50 گرم پنیر پیتزا ، گوشت گوسفندی تازه ، بیکن ، سیب زمینی دور چین ، سس مخصوص ایتالیای ",
+      "price": 220,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/ham1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "چیز برگر بیکن",
+      "des": "گوجه ، پیاز ، 50 گرم پنیر پیتزا ، گوشت گوسفندی تازه ، بیکن ، سیب زمینی دور چین ، سس مخصوص ایتالیای ",
+      "price": 190,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/ham2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "همبرگر ذغالی مخصوص",
+      "des": "گوجه ، پیاز ، 50 گرم پنیر پیتزا ، گوشت گوسفندی تازه ، بیکن ، سیب زمینی دور چین ، سس مخصوص ایتالیای ",
+      "price": 250,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/ham3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "همبرگر پورتوبلو",
+      "des": "گوجه ، پیاز ، 50 گرم پنیر پیتزا ، گوشت گوسفندی تازه ، بیکن ، سیب زمینی دور چین ، سس مخصوص ایتالیای ",
+      "price": 280,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/ham4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "همبرگر اورجینال ذغالی",
+      "des": "گوجه ، پیاز ، 50 گرم پنیر پیتزا ، گوشت گوسفندی تازه ، بیکن ، سیب زمینی دور چین ، سس مخصوص ایتالیای ",
+      "price": 280,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/ham3.jpg"
+    }
+  ],
+  "pizza": [
+    {
+      "id": 6,
+      "name": "   پیتزا سافاری گوشت",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "price": 280,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/pizza/1.jpg"
+    },
+    {
+      "id": 7,
+      "name": " پیتزا مارگاریتا",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "price": 200,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/pizza/2.jpg"
+    },
+    {
+      "id": 8,
+      "name": " پیتزا توسکان",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "price": 250,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/pizza/3.jpg"
+    },
+    {
+      "id": 9,
+      "name": " پیتزا سانتافه",
+      "des": "گوجه ، پیاز ، 50 گرم پنیر پیتزا ، گوشت گوسفندی تازه ، بیکن ، سیب زمینی دور چین ، سس مخصوص ایتالیای ",
+      "price": 280,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/pizza/4.jpg"
+    },
+    {
+      "id": 10,
+      "name": " پیتزا بیکن پردیس",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "price": 320,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/pizza/5.jpg"
+    },
+    {
+      "id": 11,
+      "name": " پیتزا پپرونی",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "price": 250,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/pizza/6.jpg"
+    }
+  ],
+  "sandwich": [
+    {
+      "id": 12,
+      "name": "   ساندویچ جوجه کباب",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "price": 160,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/sandwich/1.jpg"
+    },
+    {
+      "id": 13,
+      "name": " ساندویچ باب کبابی مرغ",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "price": 180,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/sandwich/2.jpg"
+    },
+    {
+      "id": 14,
+      "name": " ساندویچ   میگو پاپ کورن",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "price": 250,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/sandwich/3.jpg"
+    },
+    {
+      "id": 15,
+      "name": " ساندویچ   مخصوص ترکی",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "price": 250,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/sandwich/4.jpg"
+    },
+    {
+      "id": 16,
+      "name": " ساندویچ بیف گاو  ",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "price": 320,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/sandwich/5.jpg"
+    },
+    {
+      "id": 17,
+      "name": " ساندویچ    جوجه کباب مخصوص",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "price": 210,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/sandwich/6.jpg"
+    }
+  ],
+  "drinks": [
+    {
+      "id": 18,
+      "name": "     نوشیدنی چای سرد جنوب",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "price": 50,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/drinks/1.jpg"
+    },
+    {
+      "id": 19,
+      "name": "     میلک شیک",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "price": 120,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/drinks/2.jpg"
+    },
+    {
+      "id": 20,
+      "name": " شیر خرما ",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "price": 50,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/drinks/3.jpg"
+    }
+  ],
+  "all": [
+    {
+      "id": 1,
+      "name": "همبرگر بزرگ درجه یک",
+      "des": "گوجه ، پیاز ، 50 گرم پنیر پیتزا ، گوشت گوسفندی تازه ، بیکن ، سیب زمینی دور چین ، سس مخصوص ایتالیای ",
+      "price": 220,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/ham1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "چیز برگر بیکن",
+      "des": "گوجه ، پیاز ، 50 گرم پنیر پیتزا ، گوشت گوسفندی تازه ، بیکن ، سیب زمینی دور چین ، سس مخصوص ایتالیای ",
+      "price": 190,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/ham2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "همبرگر ذغالی مخصوص",
+      "des": "گوجه ، پیاز ، 50 گرم پنیر پیتزا ، گوشت گوسفندی تازه ، بیکن ، سیب زمینی دور چین ، سس مخصوص ایتالیای ",
+      "price": 250,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/ham3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "همبرگر پورتوبلو",
+      "des": "گوجه ، پیاز ، 50 گرم پنیر پیتزا ، گوشت گوسفندی تازه ، بیکن ، سیب زمینی دور چین ، سس مخصوص ایتالیای ",
+      "price": 280,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/ham4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "همبرگر اورجینال ذغالی",
+      "des": "گوجه ، پیاز ، 50 گرم پنیر پیتزا ، گوشت گوسفندی تازه ، بیکن ، سیب زمینی دور چین ، سس مخصوص ایتالیای ",
+      "price": 280,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/ham3.jpg"
+    },
+    {
+      "id": 6,
+      "name": "   پیتزا سافاری گوشت",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "price": 280,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/pizza/1.jpg"
+    },
+    {
+      "id": 7,
+      "name": " پیتزا مارگاریتا",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "price": 200,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/pizza/2.jpg"
+    },
+    {
+      "id": 8,
+      "name": " پیتزا توسکان",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "price": 250,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/pizza/3.jpg"
+    },
+    {
+      "id": 9,
+      "name": " پیتزا سانتافه",
+      "des": "گوجه ، پیاز ، 50 گرم پنیر پیتزا ، گوشت گوسفندی تازه ، بیکن ، سیب زمینی دور چین ، سس مخصوص ایتالیای ",
+      "price": 280,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/pizza/4.jpg"
+    },
+    {
+      "id": 10,
+      "name": " پیتزا بیکن پردیس",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "price": 320,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/pizza/5.jpg"
+    },
+    {
+      "id": 11,
+      "name": " پیتزا پپرونی",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "price": 250,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/pizza/6.jpg"
+    },
+    {
+      "id": 12,
+      "name": "   ساندویچ جوجه کباب",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "price": 160,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/sandwich/1.jpg"
+    },
+    {
+      "id": 13,
+      "name": " ساندویچ باب کبابی مرغ",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "price": 180,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/sandwich/2.jpg"
+    },
+    {
+      "id": 14,
+      "name": " ساندویچ   میگو پاپ کورن",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "price": 250,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/sandwich/3.jpg"
+    },
+    {
+      "id": 15,
+      "name": " ساندویچ   مخصوص ترکی",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "price": 250,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/sandwich/4.jpg"
+    },
+    {
+      "id": 16,
+      "name": " ساندویچ بیف گاو  ",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "price": 320,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/sandwich/5.jpg"
+    },
+    {
+      "id": 17,
+      "name": " ساندویچ    جوجه کباب مخصوص",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "price": 210,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/sandwich/6.jpg"
+    },
+    {
+      "id": 18,
+      "name": "     نوشیدنی چای سرد جنوب",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "price": 50,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/drinks/1.jpg"
+    },
+    {
+      "id": 19,
+      "name": "     میلک شیک",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "price": 120,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/drinks/2.jpg"
+    },
+    {
+      "id": 20,
+      "name": " شیر خرما ",
+      "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "price": 50,
+      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/drinks/3.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "admin",
+      "password": "123",
+      "email": "mahdyarvaz@gmal.com"
+    },
+    {
+      "username": "1234567",
+      "password": "1234",
+      "email": "12345@gmail.com",
+      "id": 2
+    },
+    {
+      "username": "1234567",
+      "password": "1234",
+      "email": "12345@gmail.com",
+      "id": 3
+    },
+    {
+      "username": "1234567",
+      "password": "1234",
+      "email": "12345@gmail.com",
+      "id": 4
+    },
+    {
+      "username": "1234567",
+      "password": "1234",
+      "email": "12345@gmail.com",
+      "id": 5
+    },
+    {
+      "username": "1234567",
+      "password": "1234",
+      "email": "12345@gmail.com",
+      "id": 6
+    },
+    {
+      "username": "1234567",
+      "password": "1234",
+      "email": "12345@gmail.com",
+      "id": 7
+    },
+    {
+      "username": "1234567",
+      "password": "1234",
+      "id": 8
+    },
+    {
+      "username": "1234567",
+      "password": "1234",
+      "id": 9
+    },
+    {
+      "username": "1234567",
+      "password": "1234",
+      "id": 10
+    },
+    {
+      "username": "1234567",
+      "password": "1234",
+      "id": 11
+    },
+    {
+      "username": "1234567",
+      "password": "1234",
+      "id": 12
+    },
+    {
+      "username": "fdsfd",
+      "password": "fdsffsdf",
+      "email": "dfs@gmail.com",
+      "id": 13
+    },
+    {
+      "username": "sdsadasddsa",
+      "password": "dsadsadsads@gmail.com",
+      "email": "dsadsadsads@gmail.com",
+      "id": 14
+    },
+    {
+      "username": "mahdiyar",
+      "password": "vaez",
+      "email": "mahdiyarvaez@gmail.com",
+      "id": 15
+    },
+    {
+      "username": "sara",
+      "password": "vaez",
+      "email": "sara@gmail.com",
+      "id": 16
+    },
+    {
+      "username": "sara",
+      "password": "vaez",
+      "email": "sara@gmail.com",
+      "id": 17
+    },
+    {
+      "username": "sara",
+      "password": "vaez",
+      "email": "sara@gmail.com",
+      "id": 18
+    },
+    {
+      "username": "sarafsdfsddff",
+      "password": "vaez",
+      "email": "sara@gmail.com",
+      "id": 19
+    },
+    {
+      "username": "123456743223344",
+      "password": "1234",
+      "email": "m@gmail.com",
+      "id": 20
+    },
+    {
+      "username": "ali",
+      "password": "123",
+      "email": "mahdyarvaez@gmail.com",
+      "id": 21
+    },
+    {
+      "username": "ali123",
+      "password": "1234567",
+      "email": "mahdyarvaezsadsad@gmail.com",
+      "id": 22
+    },
+    {
+      "username": "mahdiar",
+      "password": "1234567890",
+      "email": "mahdyarvaez@gmail.com",
+      "id": 23
+    }
+  ]
+}

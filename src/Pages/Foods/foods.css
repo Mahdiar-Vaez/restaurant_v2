@@ -1,0 +1,83 @@
+.loading{
+    height: 100svh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.foods-section{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: start;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 20px;
+    min-height: 100svh;
+}
+.food-card{
+    width: 300px;
+    height: 400px;
+    padding: 10px;
+    border-radius: 20px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: space-between;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+    transition: 0.3s ease;
+    margin: 10px;
+}
+.food-card img{
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+
+}
+.food-card h4{
+    font-size: 20px;
+}
+.food-card span{
+    font-family: 'tahoma';
+    position: absolute;
+    top: 10px;
+    background-color: var(--bg-reding);
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
+.food-card a{
+    width: 100%;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: var(--bg-secondary);
+    font-family: 'iransans';
+    color: white;transition: all  .3s;
+    text-align: center;
+    cursor: pointer;    
+}
+@media only screen and (max-width: 800px) {
+    .foods-section{
+        gap: 0;
+        justify-content: center;
+    }
+ 
+    .food-card{
+        width: 35vw;
+        gap: 8px;
+        margin: 4px;
+        justify-content: space-around;
+
+    }
+    .food-card img{
+        height: 100px;
+    }
+    .food-card h4{
+        font-size: 16px !important;
+    }
+    .food-card p{
+        font-size: 12px !important;
+    }
+}

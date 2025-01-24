@@ -1,0 +1,85 @@
+.form-payment{
+    display: flex;
+    flex-direction: column;
+   
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0,0 , .7);
+    padding: 16px;
+    border-radius: 10px;
+    width: 700px;
+    gap: 10px;
+  }
+  .form-payment > textarea {
+    border: 1px solid #5E6977;
+    outline: none;
+    resize: none;
+    width:650px ;
+    height: 150px;
+    border-radius: 10px ;
+    padding: 10px;
+    font-size: 14px;
+    font-family: 'iransans';
+    color: var(--bg-reding);
+  }
+  .form-payment input{
+    border: 1px solid gray;
+    width:650px ;
+    height: 40px;
+    color: var(--bg-reding);
+    background-color: white;
+    border-radius: 10px;
+    font-family: 'iransans';
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  .payment-container{
+    padding:30px 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+flex-direction: column;
+width: 100%;
+height: 100%;
+
+background-color: rgba(0, 0, 0, 0.6);
+  }
+  .payment-container h3{
+    font-size: 42px;
+    color: var(--bg-secondary);
+  }
+  .payment-container p{
+    font-family:'tahoma' ;
+    font-size: 24px;
+    color: white;
+  }
+  .form-payment > button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:650px ;
+    height: 40px;
+    color: var(--bg-reding);
+    background-color: var(--bg-secondary);
+    border: none;
+    border-radius: 10px;
+    font-family: 'iransans';
+    cursor: pointer;
+  }
+  .bg {
+    width: 100%;
+   min-height: 100%;
+   background-repeat: no-repeat;
+   background-size: cover;
+    background-image: url(../../../public/assets/bg/restaurant.webp);
+  }
+  @media only screen and (max-width: 700px) {
+     .form-payment{
+      width: 275px;
+     }
+     .form-payment input , .form-payment textarea,.form-payment button{
+      width: 250px;
+     }
+  }

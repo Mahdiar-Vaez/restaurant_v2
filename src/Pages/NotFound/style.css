@@ -1,0 +1,24 @@
+.not-found{
+    height: 100svh;
+    width: 100svw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+/* give me background color that is very nice i mean linear bg  */
+    background-image: linear-gradient(to bottom right, #f0f2f5, #c3d141);
+}
+
+.not-found img{
+    border-radius: 20px;
+}
+@media only screen and (max-width: 1000px) {
+  .not-found img{
+    width: 250px;
+    height: 250px;
+    object-fit: contain;
+
+  } 
+    
+  
+}

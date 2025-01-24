@@ -1,0 +1,88 @@
+@font-face {
+  font-family: 'iransans';
+  src: url(./fonts/IRANSansWeb.ttf);
+}
+@font-face {
+  font-family: 'tahoma';
+  src: url(fonts/B-NAZANIN.TTF);
+}
+@font-face {
+  font-family: 'titr';
+  src: url(fonts/Sepahbod.otf);
+}
+:root{
+  --bg-primary:#222222;
+  --bg-main:#fdfaed;
+  --text-main:#22272d;
+  --bg-secondary:#ffca3c;
+  --bg-reding:#f2002d;
+
+}
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+ scroll-behavior: smooth;
+  direction: rtl;
+}
+ul{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+  color: white;}
+body{
+  font-family: 'iransans';
+}
+.section{
+  padding:0 84px;
+}
+h3{
+  font-family: 'titr';
+}
+.Toastify__toast-body{
+  font-family: 'iransans';
+}
+h1 {
+  font-size: 1.5rem !important;
+}
+span{
+  font-family: 'tahoma' !important;
+}
+@media only screen and (max-width: 1000px) {
+  .section{
+    padding: 0 24px;
+  }
+  h1 {
+    font-size: 2rem; /* 32px */
+  }
+
+  h2 {
+    font-size: 1.75rem; /* 28px */
+  }
+
+  h3 {
+    font-size: 1.5rem; /* 24px */
+  }
+
+  h4 {
+    font-size: 1.25rem; /* 20px */
+  }
+
+  h5 {
+    font-size: 1rem; /* 16px */
+  }
+
+  h6 {
+    font-size: 0.875rem; /* 14px */
+  }
+
+  p {
+    font-size: 0.875rem; /* 14px */
+  }
+}
+@media only screen and (max-width: 1000px) {
+  .section{
+    padding: 0 12px;     
+  }
+}

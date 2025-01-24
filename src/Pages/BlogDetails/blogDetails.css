@@ -1,0 +1,61 @@
+.blogDetails {
+    max-width: 800px;
+    margin:  auto;
+    margin-top: 40px;
+    padding: 30px 24px;
+    direction: rtl;
+  }
+  
+  .blogDetailTitle {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .blogDetailImage {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .blogDetailMeta {
+    font-size: 0.9rem;
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
+  .blogDetailDate {
+    font-style: italic;
+  }
+  
+  .blogDetailContent {
+    line-height: 1.6;
+  }
+  
+  .blogDetailSubtitle {
+    font-size: 1.8rem;
+    color: #444;
+    margin-bottom: 15px;
+  }
+  
+  .blogDetailDescription {
+    font-size: 1rem;
+    color: #333;
+    text-align: justify;
+  }
+  
+  @media (max-width: 768px) {
+    .blogDetails {
+      padding: 10px;
+    }
+  
+    .blogDetailTitle {
+      font-size: 2rem;
+    }
+  
+    .blogDetailSubtitle {
+      font-size: 1.5rem;
+    }
+  }
