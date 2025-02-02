@@ -19,7 +19,7 @@ const Ai = () => {
     setError(null);
 
     try {
-      const url = `https://vaezprojects.ir/claude.php?question=${encodeURIComponent(
+      const url = `https://api4dev.ir/ai/?text=${encodeURIComponent(
         question
       )}`;
       const res = await fetch(url);
@@ -47,7 +47,7 @@ const Ai = () => {
   const fetchInitialResponse = async () => {
     setLoading(true);
     try {
-      const url = `https://vaezprojects.ir/claude.php?question=سلام عزیزم خودت رو به عنوان میزبان رستوران مهدیار واعظ معرفی کن و به مهمانان خوش آمد بگو و نظرت رو در مورد مسابقات فرهنگی هنری بیان کن و بگو توسط مهدیار واعظ ساخته شد .و از عوامل این مسابقات که استان خراسان رضوی است به ص.رت مختصر و کوتاه تشکر کن `;
+      const url = `https://api4dev.ir/ai/?text=سلام عزیزم خودت رو به عنوان میزبان رستوران مهدیار واعظ معرفی کن و به مهمانان خوش آمد بگو و نظرت رو در مورد مسابقات فرهنگی هنری بیان کن و بگو توسط مهدیار واعظ ساخته شد .و از عوامل این مسابقات که استان خراسان رضوی است به ص.رت مختصر و کوتاه تشکر کن `;
       const res = await fetch(url);
 
       if (!res.ok) {
@@ -73,6 +73,7 @@ const Ai = () => {
     fetchResponse();
     setQuestion("");
   };
+
 
   return (
     <motion.div initial={{opacity:0,}} whileInView={{opacity:1}} transition={{duration:.5}} className="chat-container">
