@@ -2,6 +2,19 @@ import React, { useState, useEffect, useRef } from "react";
 import "./ai.css";
 import { RiRobot2Fill } from "react-icons/ri";
 import { motion } from "framer-motion";
+
+const ChatMessage=({question,response})=>{
+  return(
+    <div  className="chat-message">
+    <p className="me-message">
+      {question}
+    </p>
+    <div className="ai-message">
+      {<p><RiRobot2Fill fontSize={32} /></p>} <p> {response}</p>
+    </div>
+  </div>
+  )
+}
 const Ai = () => {
   const [response, setResponse] = useState("");
   const [loading, setLoading] = useState(false);
@@ -9,11 +22,8 @@ const Ai = () => {
   const [firstRes, setFirstRes] = useState("");
   const [question, setQuestion] = useState("");
   const [chatHistory, setChatHistory] = useState([]);
-  const messageRef=useRef()
- const messageContainer=messageRef.current
- if(messageContainer){
-  messageContainer.scrollTo({ behavior: "smooth" });
-}
+  const messageRef = useRef(null);
+
   const fetchResponse = async () => {
     setLoading(true);
     setError(null);
@@ -68,35 +78,34 @@ const Ai = () => {
     fetchInitialResponse();
   }, []);
 
+  useEffect(() => {
+    if (messageRef.current) {
+      messageRef.current.scrollTop = messageRef.current.scrollHeight;
+      // for scroling down when new chat appeared
+    }
+  }, [chatHistory]);
+
   const handleSubmit = (e) => {
     e.preventDefault();
     fetchResponse();
     setQuestion("");
   };
 
-
   return (
-    <motion.div initial={{opacity:0,}} whileInView={{opacity:1}} transition={{duration:.5}} className="chat-container">
+    <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} transition={{ duration: 0.5 }} className="chat-container">
       <div className="chat-header">
         <h1>صحبت با هوش مصنوعی</h1>
       </div>
       <div className="chat-body">
-        <div className="chat-messages  " ref={messageRef}>
+        <div className="chat-messages" ref={messageRef}>
           {chatHistory.map((chat, index) => (
-            <div key={index} className="chat-message">
-              <p className="me-message">
-                 {chat.question}
-              </p>
-              <div className="ai-message">
-            {<p><RiRobot2Fill fontSize={32} /></p>}   <p> {chat.response}</p>
-              </div>
-            </div>
+           <ChatMessage key={index} {...chat}/>
           ))}
-          {loading && <p>چند لحطه صبر کنید...</p>}
+          {loading && <p>چند لحظه صبر کنید...</p>}
           {error && <p className="error-message">{error}</p>}
         </div>
         <form onSubmit={handleSubmit} className="chat-form">
-        <button type="submit" className="chat-submit-btn">
+          <button type="submit" className="chat-submit-btn">
             بپرس
           </button>
           <input
@@ -106,7 +115,6 @@ const Ai = () => {
             placeholder="سوال خود را بپرسید"
             className="chat-input"
           />
-      
         </form>
       </div>
     </motion.div>
