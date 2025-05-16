@@ -1,15 +1,15 @@
 {
   "Swiper": [
     {
-      "imgUrl": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/slider1.png",
+      "imgUrl": "https://vaezprojects.ir/restaurant/slider1.png",
       "name": "همبرگر رو بزن تو رگ"
     },
     {
-      "imgUrl": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/slider2.png",
+      "imgUrl": "https://vaezprojects.ir/restaurant/slider2.png",
       "name": "همبرگر با سیب زمینی مخصوص بزن "
     },
     {
-      "imgUrl": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/slider3.png",
+      "imgUrl": "https://vaezprojects.ir/restaurant/slider3.png",
       "name": "مرغ سوخاری رو بزن تو رگ "
     }
   ],
@@ -19,35 +19,35 @@
       "name": "همبرگر بزرگ درجه یک",
       "des": "گوجه ، پیاز ، 50 گرم پنیر پیتزا ، گوشت گوسفندی تازه ، بیکن ، سیب زمینی دور چین ، سس مخصوص ایتالیای ",
       "price": 220,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/ham1.jpg"
+      "img": "https://vaezprojects.ir/restaurant/ham1.jpg"
     },
     {
       "id": 2,
       "name": "چیز برگر بیکن",
       "des": "گوجه ، پیاز ، 50 گرم پنیر پیتزا ، گوشت گوسفندی تازه ، بیکن ، سیب زمینی دور چین ، سس مخصوص ایتالیای ",
       "price": 190,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/ham2.jpg"
+      "img": "https://vaezprojects.ir/restaurant/ham2.jpg"
     },
     {
       "id": 3,
       "name": "همبرگر ذغالی مخصوص",
       "des": "گوجه ، پیاز ، 50 گرم پنیر پیتزا ، گوشت گوسفندی تازه ، بیکن ، سیب زمینی دور چین ، سس مخصوص ایتالیای ",
       "price": 250,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/ham3.jpg"
+      "img": "https://vaezprojects.ir/restaurant/ham3.jpg"
     },
     {
       "id": 4,
       "name": "همبرگر پورتوبلو",
       "des": "گوجه ، پیاز ، 50 گرم پنیر پیتزا ، گوشت گوسفندی تازه ، بیکن ، سیب زمینی دور چین ، سس مخصوص ایتالیای ",
       "price": 280,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/ham4.jpg"
+      "img": "https://vaezprojects.ir/restaurant/ham4.jpg"
     },
     {
       "id": 5,
       "name": "همبرگر اورجینال ذغالی",
       "des": "گوجه ، پیاز ، 50 گرم پنیر پیتزا ، گوشت گوسفندی تازه ، بیکن ، سیب زمینی دور چین ، سس مخصوص ایتالیای ",
       "price": 280,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/ham3.jpg"
+      "img": "https://vaezprojects.ir/restaurant/ham3.jpg"
     }
   ],
   "pizza": [
@@ -56,42 +56,42 @@
       "name": "   پیتزا سافاری گوشت",
       "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
       "price": 280,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/pizza/1.jpg"
+      "img": "https://vaezprojects.ir/restaurant/pizza/1.jpg"
     },
     {
       "id": 7,
       "name": " پیتزا مارگاریتا",
       "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
       "price": 200,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/pizza/2.jpg"
+      "img": "https://vaezprojects.ir/restaurant/pizza/2.jpg"
     },
     {
       "id": 8,
       "name": " پیتزا توسکان",
       "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
       "price": 250,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/pizza/3.jpg"
+      "img": "https://vaezprojects.ir/restaurant/pizza/3.jpg"
     },
     {
       "id": 9,
       "name": " پیتزا سانتافه",
       "des": "گوجه ، پیاز ، 50 گرم پنیر پیتزا ، گوشت گوسفندی تازه ، بیکن ، سیب زمینی دور چین ، سس مخصوص ایتالیای ",
       "price": 280,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/pizza/4.jpg"
+      "img": "https://vaezprojects.ir/restaurant/pizza/4.jpg"
     },
     {
       "id": 10,
       "name": " پیتزا بیکن پردیس",
       "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
       "price": 320,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/pizza/5.jpg"
+      "img": "https://vaezprojects.ir/restaurant/pizza/5.jpg"
     },
     {
       "id": 11,
       "name": " پیتزا پپرونی",
       "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
       "price": 250,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/pizza/6.jpg"
+      "img": "https://vaezprojects.ir/restaurant/pizza/6.jpg"
     }
   ],
   "sandwich": [
@@ -100,42 +100,42 @@
       "name": "   ساندویچ جوجه کباب",
       "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
       "price": 160,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/sandwich/1.jpg"
+      "img": "https://vaezprojects.ir/restaurant/sandwich/1.jpg"
     },
     {
       "id": 13,
       "name": " ساندویچ باب کبابی مرغ",
       "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
       "price": 180,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/sandwich/2.jpg"
+      "img": "https://vaezprojects.ir/restaurant/sandwich/2.jpg"
     },
     {
       "id": 14,
       "name": " ساندویچ   میگو پاپ کورن",
       "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
       "price": 250,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/sandwich/3.jpg"
+      "img": "https://vaezprojects.ir/restaurant/sandwich/3.jpg"
     },
     {
       "id": 15,
       "name": " ساندویچ   مخصوص ترکی",
       "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
       "price": 250,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/sandwich/4.jpg"
+      "img": "https://vaezprojects.ir/restaurant/sandwich/4.jpg"
     },
     {
       "id": 16,
       "name": " ساندویچ بیف گاو  ",
       "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
       "price": 320,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/sandwich/5.jpg"
+      "img": "https://vaezprojects.ir/restaurant/sandwich/5.jpg"
     },
     {
       "id": 17,
       "name": " ساندویچ    جوجه کباب مخصوص",
       "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
       "price": 210,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/sandwich/6.jpg"
+      "img": "https://vaezprojects.ir/restaurant/sandwich/6.jpg"
     }
   ],
   "drinks": [
@@ -144,21 +144,21 @@
       "name": "     نوشیدنی چای سرد جنوب",
       "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
       "price": 50,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/drinks/1.jpg"
+      "img": "https://vaezprojects.ir/restaurant/drinks/1.jpg"
     },
     {
       "id": 19,
       "name": "     میلک شیک",
       "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
       "price": 120,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/drinks/2.jpg"
+      "img": "https://vaezprojects.ir/restaurant/drinks/2.jpg"
     },
     {
       "id": 20,
       "name": " شیر خرما ",
       "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
       "price": 50,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/drinks/3.jpg"
+      "img": "https://vaezprojects.ir/restaurant/drinks/3.jpg"
     }
   ],
   "all": [
@@ -167,140 +167,140 @@
       "name": "همبرگر بزرگ درجه یک",
       "des": "گوجه ، پیاز ، 50 گرم پنیر پیتزا ، گوشت گوسفندی تازه ، بیکن ، سیب زمینی دور چین ، سس مخصوص ایتالیای ",
       "price": 220,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/ham1.jpg"
+      "img": "https://vaezprojects.ir/restaurant/ham1.jpg"
     },
     {
       "id": 2,
       "name": "چیز برگر بیکن",
       "des": "گوجه ، پیاز ، 50 گرم پنیر پیتزا ، گوشت گوسفندی تازه ، بیکن ، سیب زمینی دور چین ، سس مخصوص ایتالیای ",
       "price": 190,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/ham2.jpg"
+      "img": "https://vaezprojects.ir/restaurant/ham2.jpg"
     },
     {
       "id": 3,
       "name": "همبرگر ذغالی مخصوص",
       "des": "گوجه ، پیاز ، 50 گرم پنیر پیتزا ، گوشت گوسفندی تازه ، بیکن ، سیب زمینی دور چین ، سس مخصوص ایتالیای ",
       "price": 250,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/ham3.jpg"
+      "img": "https://vaezprojects.ir/restaurant/ham3.jpg"
     },
     {
       "id": 4,
       "name": "همبرگر پورتوبلو",
       "des": "گوجه ، پیاز ، 50 گرم پنیر پیتزا ، گوشت گوسفندی تازه ، بیکن ، سیب زمینی دور چین ، سس مخصوص ایتالیای ",
       "price": 280,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/ham4.jpg"
+      "img": "https://vaezprojects.ir/restaurant/ham4.jpg"
     },
     {
       "id": 5,
       "name": "همبرگر اورجینال ذغالی",
       "des": "گوجه ، پیاز ، 50 گرم پنیر پیتزا ، گوشت گوسفندی تازه ، بیکن ، سیب زمینی دور چین ، سس مخصوص ایتالیای ",
       "price": 280,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/ham3.jpg"
+      "img": "https://vaezprojects.ir/restaurant/ham3.jpg"
     },
     {
       "id": 6,
       "name": "   پیتزا سافاری گوشت",
       "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
       "price": 280,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/pizza/1.jpg"
+      "img": "https://vaezprojects.ir/restaurant/pizza/1.jpg"
     },
     {
       "id": 7,
       "name": " پیتزا مارگاریتا",
       "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
       "price": 200,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/pizza/2.jpg"
+      "img": "https://vaezprojects.ir/restaurant/pizza/2.jpg"
     },
     {
       "id": 8,
       "name": " پیتزا توسکان",
       "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
       "price": 250,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/pizza/3.jpg"
+      "img": "https://vaezprojects.ir/restaurant/pizza/3.jpg"
     },
     {
       "id": 9,
       "name": " پیتزا سانتافه",
       "des": "گوجه ، پیاز ، 50 گرم پنیر پیتزا ، گوشت گوسفندی تازه ، بیکن ، سیب زمینی دور چین ، سس مخصوص ایتالیای ",
       "price": 280,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/pizza/4.jpg"
+      "img": "https://vaezprojects.ir/restaurant/pizza/4.jpg"
     },
     {
       "id": 10,
       "name": " پیتزا بیکن پردیس",
       "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
       "price": 320,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/pizza/5.jpg"
+      "img": "https://vaezprojects.ir/restaurant/pizza/5.jpg"
     },
     {
       "id": 11,
       "name": " پیتزا پپرونی",
       "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
       "price": 250,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/pizza/6.jpg"
+      "img": "https://vaezprojects.ir/restaurant/pizza/6.jpg"
     },
     {
       "id": 12,
       "name": "   ساندویچ جوجه کباب",
       "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
       "price": 160,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/sandwich/1.jpg"
+      "img": "https://vaezprojects.ir/restaurant/sandwich/1.jpg"
     },
     {
       "id": 13,
       "name": " ساندویچ باب کبابی مرغ",
       "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
       "price": 180,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/sandwich/2.jpg"
+      "img": "https://vaezprojects.ir/restaurant/sandwich/2.jpg"
     },
     {
       "id": 14,
       "name": " ساندویچ   میگو پاپ کورن",
       "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
       "price": 250,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/sandwich/3.jpg"
+      "img": "https://vaezprojects.ir/restaurant/sandwich/3.jpg"
     },
     {
       "id": 15,
       "name": " ساندویچ   مخصوص ترکی",
       "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
       "price": 250,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/sandwich/4.jpg"
+      "img": "https://vaezprojects.ir/restaurant/sandwich/4.jpg"
     },
     {
       "id": 16,
       "name": " ساندویچ بیف گاو  ",
       "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
       "price": 320,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/sandwich/5.jpg"
+      "img": "https://vaezprojects.ir/restaurant/sandwich/5.jpg"
     },
     {
       "id": 17,
       "name": " ساندویچ    جوجه کباب مخصوص",
       "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
       "price": 210,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/sandwich/6.jpg"
+      "img": "https://vaezprojects.ir/restaurant/sandwich/6.jpg"
     },
     {
       "id": 18,
       "name": "     نوشیدنی چای سرد جنوب",
       "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
       "price": 50,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/drinks/1.jpg"
+      "img": "https://vaezprojects.ir/restaurant/drinks/1.jpg"
     },
     {
       "id": 19,
       "name": "     میلک شیک",
       "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
       "price": 120,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/drinks/2.jpg"
+      "img": "https://vaezprojects.ir/restaurant/drinks/2.jpg"
     },
     {
       "id": 20,
       "name": " شیر خرما ",
       "des": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
       "price": 50,
-      "img": "https://vaezprojects.ir/wp-content/uploads/2024/restaurant/drinks/3.jpg"
+      "img": "https://vaezprojects.ir/restaurant/drinks/3.jpg"
     }
   ],
   "users": [

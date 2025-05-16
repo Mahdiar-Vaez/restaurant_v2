@@ -234,16 +234,15 @@ export default function Navbar() {
         </ul>
       </nav>{" "}
       <Link to={"/ai"}>
-        {" "}
-        <button
-          style={{
-            display: pageAi ? "none" : "block",
-          }}
-          className="ai-btn"
-        >
-          از هوش مصنوعی بپرس <RiRobot2Fill fontSize={"16px"} />{" "}
-        </button>
-      </Link>
+  <button
+    style={{
+      display: pageAi ? "none" : "block",
+    }}
+    className="ai-btn ai-btn-float"
+  >
+    از هوش مصنوعی بپرس <RiRobot2Fill fontSize={"12px"} />
+  </button>
+</Link>
     </>
   );
 }
